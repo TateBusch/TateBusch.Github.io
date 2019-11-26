@@ -1,7 +1,6 @@
 ---
 layout: default
-title: About
-id: about
+title: About Me
 ---
 
 This is my about page!!!!
