@@ -4,7 +4,7 @@ title: My Projects
 thumbnail: ''
 id: projects
 ---
- I have completed several Projects both on my own time and through my school. Let's start with a series of projects that I completed on my own just for fun. I decided to apply my design and Adobe Illustrator skills to one of my hobbies; Cars and car design. I began by tracing photos of the cars I liked to help inspire my creativity to design my own cars. 
+ I have completed several Projects both on my own time and through my school. Let's start with a series of projects that I completed on my own just for fun. I decided to apply my design and Adobe Illustrator skills to one of my hobbies; cars and car design. I began by tracing photos of the cars I liked to help inspire my creativity to design my own cars. 
 
 <img src="/images/uploads/suprafirstcarinillustrator.svg" alt="My lamborghini Aventador SV" class="center" />
 
