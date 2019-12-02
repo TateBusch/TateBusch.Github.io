@@ -70,7 +70,7 @@ After completing my research I was almost able to begin working on usable protot
 
 **Below are links to my low fidelity paper wireframe and to my website prototype:**
 
-<div class="youtube"><li> <iframe width = "100%" height = "100%"src="https://youtu.be/Qxyxpr7a7-8"></iframe></li><li> <iframe width = "100%" height = "100%"src="https://youtu.be/crlmVBqzdnc"></iframe></li> </div>
+<div class="youtube"><li> <iframe width = "100%" height = "100%"src="https://www.youtube.com/watch?v=crlmVBqzdnc"></iframe></li><li> <iframe width = "100%" height = "100%"src="https://www.youtube.com/watch?v=Qxyxpr7a7-8"></iframe></li> </div>
 
 **(2019) 2nd year idea update:** 
 
