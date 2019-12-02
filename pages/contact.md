@@ -64,7 +64,7 @@ In my graphic design class we were tasked with designing a poster to represent t
 
   <div class="column2">
 
- <img src="/images/uploads/lamboquick3.svg" alt="A quick drawing of what the side might look like" title="A quick drawing of what the side might look like" class="center" />
+ <img src="/images/uploads/idea.jpg" alt="Here are two low-fidelity prototypes that helped inspire the final product" title="Here are two low-fidelity prototypes that helped inspire the final product" class="center" />
 
   </div>
 
@@ -77,6 +77,8 @@ the poster.. blah blah blah
 The GMP project...
 
 <img src="/images/uploads/gmp2-prototype.svg" alt="a second iteration prototype of our original idea" title="A second iteration prototype of our original idea" class="center" />
+
+this is our project
 
 # Contact me:
 
