@@ -146,11 +146,9 @@ The game was a global warming simulation contained inside a box that needed to b
 
 Above is a prototype for the game that I designed using my skills with Illustrator, you can see the different sections of simulated ice bergs that would melt as well as where the water levels would rise to. on the top there is also the countdown timer and the players score. This game is a great improvement over our previous design with greater emphasis on educating the user about the environment. The game would teach payers that global warming can be prevented with a little bit of effort but if we don't try the world will be seriously changed and damaged permanently.   
 
-# <h2 id="contact">
+<h2 id="contact"></h2>
 
 #  Contact me: 
-
-# </h2>
 
 **Email:** Buschtate@gmail.com
 
