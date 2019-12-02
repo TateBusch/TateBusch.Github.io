@@ -8,11 +8,11 @@ id: about
 
 \-Tate Busch, 2019
 
-Hi, my name is Tate Busch, aspiring UX designer and future UX influencer. I am a creative individual highly interested in cars and technology. I am especially interested in designing user experiences for "wearable interactive technology" such as google glass or other augmented reality wearables. I believe augmented reality is the future of technology. this technology could be used to create a pair of glasses that overlays a heads up display over your vision. Designing this display interests me. This augmented reality user interface display would basically include your entire phone into one augmented reality device, with functionality that includes: access to social media, access to browsers, access to communication services (phone and text) and access to work (a virtual keyboard). 
+Hi, my name is Tate Busch, aspiring UX designer and future UX influencer. I am a creative individual highly interested in cars and technology. I am especially interested in designing user experiences for "wearable interactive technology" such as google glass or other augmented reality wearables. I believe augmented reality is the future of technology. this technology could be used to create a pair of glasses that overlays a heads up display over your vision. Designing this display interests me. This augmented reality user interface display would basically include your entire phone into one augmented reality device, with functionality that includes: access to social media, access to browsers, access to communication services (phone and text) and access to work (a virtual keyboard).
 
 <div class="row">
 
- <div class="column">
+<div class="column">
 
 \    <img src="/images/uploads/img_7944-2.jpg" alt="My Laurier Hoodie" class="center" >
 
