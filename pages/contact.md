@@ -105,6 +105,8 @@ To test my design skills in my graphic design class, I was tasked with designing
 
 Maker lab is a class that is designed to inspire creativity and to help teach us UX designers the importance of "thinking outside the box" and considering all possible ideas. Maker lab also teaches us about ethics; a very important part of UX in todays society. Another important aspect of this class is allowing people to work together to share and critique each others ideas helping us improve our collaboration skills. The projects we had to complete was broken down into two different parts known as group maker project 1 and 2 (nicknamed GMP). 
 
+**GMP1:**
+
 The first GMP project we were only given instructions to "reinvent a box" to allow us to design freely and be creative. We came up with a multipurpose modular storage solution with an emphasis on holding multiple types of pets such as fish and a guinea pig. we also thought about the potential for this products use in an education setting but this idea still in early development.
 
 <img src="/images/uploads/img_2714.jpg" alt="This is a quick prototypes we drew when we were first envisioning the idea" title="This is a couple quick prototypes we drew when we were first envisioning the idea" class="center" />
@@ -114,6 +116,8 @@ The first GMP project we were only given instructions to "reinvent a box" to all
 After we finished drawing up several prototypes we created a very low fidelity prototype using cardboard to help people see our idea in real life. We had to present our idea in front of the whole class so the physical prototype helped us communicate our idea and presenting gave us a chance to get feedback. the feedback we received helped us narrow our focus to try to emphasize the educational aspect of the product. 
 
 When the presentations were done I wrote essay highlighted our research and development process. we were also tasked with GMP2 at this time. GMP2 is a project where you either change your idea or improve upon it to help make it more impactful to the world. 
+
+**GMP2:**
 
 We met up as a group and had discussions about what to do and decided that a focus on education was needed to make this product more impactful. We decided to scrap the modular design and discussed just making a split aquarium /hamster cage that shows how animals interact but we decided to keep ideating because the idea could be better. In one of our discussions we were talking about focusing on just the water aspect of our original idea and were looking for ways to make it more educational. I brought up the idea that we should focus on how global warming is causing corals to bleach. 
 
