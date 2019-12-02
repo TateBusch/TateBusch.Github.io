@@ -50,7 +50,7 @@ During my secondary research I spent my time researching existing companies that
 
 After completing my research I was almost able to begin working on usable prototypes. But before I began I had to first lay out all the aspects of a well designed website aswell as what key features needs to be included in my product. I started off with a rough wireframe that I drew on paper then refined it into another paper prototype that could be user tested. I tested my prototype with my users again and observed them use it to see where they struggled and asked them for feedback and comments. I then created my first website wireframe using a website builder. A few more iterations later and I had a prototype with an easy to navigate layout and successfully displays the main ideas that were planned on being included. I conducted usability research after completing each iteration of my website.
 
-<div class="row">
+<div class="youtube">
 
 <li> 
 
