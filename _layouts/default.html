@@ -38,16 +38,22 @@
 
 			<div class="collapse navbar-collapse" id="navbarColor01">
 				<ul class="navbar-nav ml-auto">
-
                 {% for static in site.pages %}
                     {% if static.id %}
-                        <li class="nav-item">
-                           
+					
+					
+                        <li class="nav-item">	
+                       <a class="nav-link" href="#contact">Contact Me</a>
 				
-                       <a class="nav-link" href="#{{ static.id }}">{{ static.title }}</a>	
+			<li class="nav-item">	
+                       <a class="nav-link" href="#{{ static.id }}">{{ static.title }}</a>
+			
 				
 			</li>
 				
+					
+					
+					
                     {% endif %}
                 {% endfor %}
 
