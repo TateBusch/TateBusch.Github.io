@@ -71,9 +71,10 @@ After completing my research I was almost able to begin working on usable protot
 **Below are links to my low fidelity paper wireframe and to my website prototype:**
 
 <div class="youtube">
-<li><iframe width="560" height="315" src="https://www.youtube.com/embed/Qxyxpr7a7-8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></li>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Qxyxpr7a7-8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<li> <iframe width="560" height="315" src="https://www.youtube.com/embed/crlmVBqzdnc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></li> </div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/crlmVBqzdnc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ </div>
 
 **(2019) 2nd year idea update:** 
 
