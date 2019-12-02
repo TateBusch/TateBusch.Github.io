@@ -12,7 +12,15 @@ Hi, my name is Tate Busch, aspiring UX designer and future UX influencer. I am a
 
 <div class="row">
 
- <img src="/images/uploads/me.jpg" alt="A photo of me outside the UXD building at Laurier Brantford" class="center">
+ <div class="column">
+
+\    <img src="/images/uploads/me.jpg" alt="My Laurier Hoodie" class="center" >
+
+  </div>
+
+  <div class="column">
+
+ <img src="/images/uploads/img_7944-2.jpg" alt="A photo of me outside the UXD building at Laurier Brantford" class="center">
 
   </div>
 
