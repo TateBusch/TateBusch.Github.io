@@ -12,11 +12,13 @@ Hi, my name is Tate Busch, aspiring UX designer and future UX influencer. I am a
 
 <div class="row">
 
-  <div class="column">
+ <div class="column">
 
-\    <img src="/images/uploads/allredlamb.jpg" alt="Red Lamborghini" class="center">
+   <img src="/images/uploads/allredlamb.jpg" alt="Red Lamborghini" class="center">
 
   </div>
+
+
 
   <div class="column">
 
@@ -24,11 +26,15 @@ Hi, my name is Tate Busch, aspiring UX designer and future UX influencer. I am a
 
   </div>
 
+
+
   <div class="column">
 
    <img src="/images/uploads/allredlamb.jpg" alt="Red Lamborghini" class="center">
 
   </div>
+
+
 
 </div>
 
