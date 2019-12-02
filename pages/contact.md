@@ -76,7 +76,7 @@ the poster.. blah blah blah
 
 The GMP project...
 
-<img src="/images/uploads/lamboquick3.svg" alt="A quick drawing of what the side might look like" title="A quick drawing of what the side might look like" class="center" />
+<img src="/images/uploads/gmp2-prototype.svg" alt="a second iteration prototype of our original idea" title="A second iteration prototype of our original idea" class="center" />
 
 # Contact me:
 
