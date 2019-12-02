@@ -9,7 +9,7 @@ tags: ''
 
 # My Logos:
 
-I designed several different logos to be able to ensure that I choose a logo that suits me. I ended up liking these four logos all for their different reasons. My favourite two were the "T8" logo with two turbos with my name in flames coming out of them (pictured above) and the black and blue "TB" logo (pictured below). A turbo is a part that goes in a car and you will soon come to know that I love cars. All logos were designed using illustrator because illustrator is a good program for me to create designs with due to the high amount of customizability offered with the program.
+I designed several different logos to be able to ensure that I choose a logo that suits me. I ended up liking these four logos all for their different reasons. My favourite two were the "T8" logo with two turbos with my name in flames coming out of them (pictured above) and the black and blue "TB" logo (pictured below). A turbo is a part that goes in a car and you will soon come to know that I just love cars. All logos were designed using illustrator because illustrator is a good program for me to create designs with due to the high amount of customizability offered with the program.
 
 <div class="row">
 
