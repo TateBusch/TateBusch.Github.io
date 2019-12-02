@@ -74,22 +74,6 @@ src="https://youtu.be/Qxyxpr7a7-8">
 
  </div>
 
-<div class="row">
-
-<div class="column2">
-
-<video> <source src="/ux103 Final/finishedwebsite.mov" type="video/mp4"  alt="" title="" class="center" /> </video>
-
-</div>
-
-  <div class="column2">
-
-<video> <source src="/ux103 Final/lowfidelitypaperprototype" type="video/mp4"  alt="" title="" class="center" /> </video>
-
-  </div>
-
-</div>
-
 **(2019) 2nd year idea update:** 
 
 When revisiting my UX103 assignment from last year, ideas on how to improve it flooded my mind. If I were to do this project again I would change my idea and build a different project but take the same steps to complete it. The website could be an all inclusive UXDesigner platform. it would combine a library of user research (behind a pay wall) with a business oriented social media platform UX designers. The website would also include job listings for companies looking to hire UX designers; simultaneously attracting people looking to get a UX design job. Another section of the website could also include a education section that can have paid for classes that teach someone how to become a ux designer. The classes would teach by invoking creativity while simultaneously teaching students all the tools they need to bring to life any idea from their imagination to life through programs such as illustrator swell as skills taught to them that allow them to prototype and expand upon their ideas through several product iterations. The education section would also teach the designers how to test their product in a real life scenario by conducting primary research. Primary research is conducted using interviews, surveys, usability testing and card sorting.
