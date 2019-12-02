@@ -20,19 +20,19 @@ id: projects
 
 <div class="column">
 
-  <img src="/images/uploads/img_7944-2.jpg" alt="My Laurier Hoodie" class="center"/>
+  <img src="/images/uploads/mycar-copy-no-back.svg" alt="this is a '50s retro futuristic sports car'" class="center"/>
 
   </div>
 
   <div class="column">
 
- <img src="/images/uploads/me.jpg" alt="A photo of me outside the UXD building at Laurier Brantford" class="me" />
+ <img src="/images/uploads/lamboquick3.svg" alt="A quick drawing of what the side might look like" class="center" />
 
   </div>
 
   <div class="column">
 
-   <img src="/images/uploads/allredlamb.jpg" alt="Red Lamborghini" class="center"/>
+   <img src="/images/uploads/quick-sketch-of-my-lambo-copy.svg" alt="this was the quick drawing that then ended up becoming my car" class="center"/>
 
   </div>
 
