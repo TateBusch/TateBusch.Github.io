@@ -22,7 +22,7 @@ id: projects
 
 <div class="column">
 
-  <img src="/images/uploads/mycar-copy-no-back.svg" alt="this is a '50s retro futuristic sports car'" title="this is a '50s retro futuristic sports car" class="center"/>
+  <img src="/images/uploads/mycar-copy-no-back.svg" alt="this is a '50s retro-futuristic sports car'" title="this is a '50s retro-futuristic sports car" class="center"/>
 
   </div>
 
