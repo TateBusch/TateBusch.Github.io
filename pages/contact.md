@@ -60,7 +60,7 @@ After completing my research I was almost able to begin working on usable protot
 
   <div class="column2">
 
- <img src="/images/uploads/websitewireframe2.png" alt="" title="" class="posterprototype" />
+ <img src="/images/uploads/websitewireframe2.png" alt="" title="" class="poster" />
 
   </div>
 
