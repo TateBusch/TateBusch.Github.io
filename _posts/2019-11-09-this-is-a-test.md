@@ -15,14 +15,18 @@ tags: ''
 
   <div class="column">
 
- <img src="/images/uploads/busch_tate_pentool.svg" alt="A pop Vinyl figure of myself that I made" title="A pop Vinyl figure of myself that I made" class="center" >
+ <img src="/images/uploads/t8-logo-copy.svg" alt="here is a slightly more detailed logo" title="here is a slightly more detailed logo" class="center" >
 
   </div>
 
   <div class="column">
 
-   <img src="/images/uploads/allredlamb.jpg" alt="My favourite Lamborghini in red" title="My favourite Lamborghini in red" class="center">
+   <img src="/images/uploads/8-logo-copy.sv" alt="Another iteration of my logo" title="Another iteration of my logo" class="center" >
 
   </div>
 
 </div>
+
+
+
+<img src="/images/uploads/busch_tate_pentool.svg" alt="A pop Vinyl figure of myself that I made" title="A pop Vinyl figure of myself that I made" class="center" >
