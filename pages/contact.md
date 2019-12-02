@@ -1,7 +1,6 @@
 ---
 layout: default
 title: 'My Projects:'
-thumbnail: ''
 id: projects
 ---
 ## Illustrator In My Free Time:
