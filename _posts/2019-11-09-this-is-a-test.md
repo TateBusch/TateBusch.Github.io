@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Practice Using Adobe Illustrator
-date: Invalid date
+date: '2019-12-01 00:00:00'
 thumbnail: ''
 tags: ''
 ---
