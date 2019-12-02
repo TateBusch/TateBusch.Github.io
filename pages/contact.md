@@ -1,12 +1,14 @@
 ---
 layout: default
-title: My Projects
+title: 'My Projects:'
 thumbnail: ''
 id: projects
 ---
- I have completed several Projects both on my own time and through my school. Let's start with a series of projects that I completed on my own just for fun. I decided to apply my design and Adobe Illustrator skills to one of my hobbies; cars and car design. I began by tracing photos of the cars I liked to help inspire my creativity to design my own cars. 
+## Illustrator In My Free Time
 
-<img src="/images/uploads/suprafirstcarinillustrator.svg" alt="My lamborghini Aventador SV" title="My lamborghini Aventador SV" class="center" />
+ I have completed several UX related projects both on my own time and through my school. I decided that it would be best to showcase the projects that best reflect me so that you may get a good understanding of who I am without ever even meeting me. Let's start with a series of projects that I completed on my own just for fun. I decided to apply my design and Adobe Illustrator skills to one of my hobbies; cars and car design. I began by tracing photos of the cars I liked to help inspire my creativity to design my own cars. 
+
+<img src="/images/uploads/suprafirstcarinillustrator.svg" alt="This is a concept of a car I like, a 2020 Toyota Supra" title="This is a concept of a car I like, a 2020 Toyota Supra" class="center" />
 
  The first car I traced was a new Toyota Supra concept car. I traced the car in about 20 min and was happy with my first drawing so I decided to continue and find more cars to draw. the next choice was obvious to me, it was going to be a Lamborghini. I was able to trace this car with much better success. The drawing was more clear and precise while simultaneously drawing it was faster than my first attempt. 
 
@@ -38,14 +40,20 @@ id: projects
 
 </div>
 
+## Website Prototyping:
+
 I was organizing the work I completed over the past year and a half at Laurier and came across this UX-process built website from my first year. It was an assignment assigned in my UX103 - UX strategy class. I had this idea on how I could change the original website to be better:
 
 2019 2nd year idea update: 
 
 The website could be an all inclusive UXDesigner platform. it would combine a library of user research (behind a pay wall) with a business oriented social media platform UX designers. The website would also include job listings for companies looking to hire UX designers; simultaneously attracting people looking to get a UX design job. Another section of the website could also include a education section that can have paid for classes that teach someone how to become a ux designer. The classes would teach by invoking creativity while simultaneously teaching students all the tools they need to bring to life any idea from their imagination to life through programs such as illustrator swell as skills taught to them that allow them to prototype and expand upon their ideas through several product iterations. The education section would also teach the designers how to test their product in a real life scenario by conducting primary research. Primary research is conducted using interviews, surveys, usability testing and card sorting.
 
+Poster Design
+
+The
 
 
 
+The
 
 Contact me:
