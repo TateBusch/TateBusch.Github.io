@@ -111,3 +111,10 @@ div {
 .navbar-brand {
    Font-size: 60px;
 }
+
+.youtube::after {
+  content: "";
+  float: center;
+  clear: both;
+  display: table;
+}
