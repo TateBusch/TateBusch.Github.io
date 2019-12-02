@@ -1,11 +1,13 @@
 ---
 layout: default
-title: 'My Logo:'
+title: ' '
 date: '2019-12-01 00:00:00'
 thumbnail: ''
 tags: ''
 ---
  <img src="/images/uploads/t8_turbo-copy.svg" alt="This is my final logo" title= "This is my final logo. it was created using Adobe Illustrator" class="center">
+
+# My Logos:
 
 I designed several different logos to be able to ensure that I choose a logo that suits me. I ended up liking these four logos all for their different reasons. My favourite two were the "T8" logo with two turbos with my name in flames coming out of them (pictured above) and the black and blue "TB" logo (pictured below). A turbo is a part that goes in a car and you will soon come to know that I love cars.
 
