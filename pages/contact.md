@@ -48,13 +48,17 @@ The assignment was designed to test our user research skills. We were tasked wit
 
 During my secondary research I spent my time researching existing companies that spend a lot of money and time in research and development of driverless AI technology. The companies I researched included Tesla and Waymo(Google). I wanted to gather the most up to date information on the factors that sway peoples decision when purchasing a car so I decided to conducted my own research. I conducted user research into what people want out of a car by having interviews with car buyers of varying demographics and by having potential users complete both open and closed card sorts about the most important factors to consider when purchasing a car. 
 
-After completing my research I was almost able to begin working on usable prototypes. But before I began I had to first lay out all the aspects of a well designed website aswell as what key features needs to be included in my product. I started off with a rough wireframe that I drew on paper then refined it into another paper prototype that could be user tested. I tested my prototype with my users again and observed them use it to see where they struggled and asked them for feedback and comments. I then created my first website wireframe using a website builder. A few more iterations later and I had a prototype with an easy to navigate layout and successfully displays the main ideas that were planned on being included. I conducted usability research after completing each iteration of my website.
+After completing my research I was almost able to begin working on usable prototypes. But before I began I had to first lay out all the aspects of a well designed website as well as what key features needs to be included in my product. I started off with a rough wireframe that I drew on paper then refined it into another paper prototype that could be user tested. I tested my prototype with my users again and observed them use it to see where they struggled and asked them for feedback and comments. I then created my first website wireframe using a website builder. A few more iterations later and I had a prototype with an easy to navigate layout and successfully displays the main ideas that were planned on being included. I conducted usability research after completing each iteration of my website.
+
+
+
+Below are links to my low fidelity paper prototype and my website wireframe:
 
 <div class="youtube">
 
 <li> 
 
-<iframe width = "100%" height = "100%"
+<iframe width = "100%" height = "300%"
 
 src="https://youtu.be/crlmVBqzdnc">
 
@@ -64,7 +68,7 @@ src="https://youtu.be/crlmVBqzdnc">
 
 <li> 
 
-<iframe width = "100%" height = "100%"
+<iframe width = "100%" height = "300%"
 
 src="https://youtu.be/Qxyxpr7a7-8">
 
