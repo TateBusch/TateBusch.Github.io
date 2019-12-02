@@ -76,6 +76,8 @@ the poster.. blah blah blah
 
 The GMP project...
 
+<img src="/images/uploads/lamboquick3.svg" alt="A quick drawing of what the side might look like" title="A quick drawing of what the side might look like" class="center" />
+
 # Contact me:
 
 **Email:** Buschtate@gmail.com
