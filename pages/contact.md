@@ -64,7 +64,7 @@ In my graphic design class we were tasked with designing a poster to represent t
 
   <div class="column2">
 
- <img src="/images/uploads/idea.jpg" alt="Here are two low-fidelity prototypes that helped inspire the final product" title="Here are two low-fidelity prototypes that helped inspire the final product" class="center" />
+ <img src="/images/uploads/idea.jpg" alt="Here are two low-fidelity prototypes that helped inspire the final product" title="Here are two low-fidelity prototypes that helped inspire the final product" class="posterprototyper" />
 
   </div>
 
