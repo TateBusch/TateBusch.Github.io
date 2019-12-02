@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ' '
+title: ' My UX Portfolio'
 date: '2019-12-01 00:00:00'
 thumbnail: ''
 tags: ''
