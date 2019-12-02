@@ -52,13 +52,29 @@ The website could be an all inclusive UXDesigner platform. it would combine a li
 
 In my graphic design class we were tasked with designing a poster to represent the UX program.
 
+
+
+<div class="row">
+
+<div class="column2">
+
 <img src="/images/uploads/ux212poster-tatebusch.svg" alt="This is the poster I designed that i thought would be represent the UX program. I did this by highlighting key features of the program and by including key words that get the viewer thinking about what the program is about" title="This is the poster I designed that I thought would be represent the UX program. I did this by highlighting key features of the program and by including key words that get the viewer thinking about what the program is about" class="poster" />
 
-the poster..
+</div>
+
+  <div class="column2">
+
+ <img src="/images/uploads/lamboquick3.svg" alt="A quick drawing of what the side might look like" title="A quick drawing of what the side might look like" class="center" />
+
+  </div>
+
+</div>
+
+the poster.. blah blah blah
 
 ## Group Maker Project:
 
-The
+The GMP project...
 
 # Contact me:
 
