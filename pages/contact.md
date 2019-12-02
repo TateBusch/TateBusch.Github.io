@@ -120,11 +120,31 @@ To test my design skills in my graphic design class, I was tasked with designing
 
 Maker lab is a class that is designed to inspire creativity and to help teach us UX designers the importance of "thinking outside the box" and considering all possible ideas. Maker lab also teaches us about ethics; a very important part of UX in todays society. Another important aspect of this class is allowing people to work together to share and critique each others ideas helping us improve our collaboration skills. The projects we had to complete was broken down into two different parts known as group maker project 1 and 2 (nicknamed GMP). 
 
-The first GMP project we were only given instructions to "reinvent a box" to allow us to design freely and be creative. We came up with a multipurpose modular storage solution with an emphasis on holding multiple types of pets such as fish and a guinea pig. 
+The first GMP project we were only given instructions to "reinvent a box" to allow us to design freely and be creative. We came up with a multipurpose modular storage solution with an emphasis on holding multiple types of pets such as fish and a guinea pig. we also thought about the potential for this products use in an education setting but this idea still in early development.
+
+<img src="/images/uploads/img_2714.jpg" alt="This is a quick prototypes we drew when we were first envisioning the idea" title="This is a couple quick prototypes we drew when we were first envisioning the idea" class="center" />
+
+(Above you can see a couple quick prototypes we drew that help show off the modularity of the product.)
+
+After we finished drawing up several prototypes we created a very low fidelity prototype using cardboard to help people see our idea in real life. We had to present our idea in front of the whole class so the physical prototype helped us communicate our idea and presenting gave us a chance to get feedback. the feedback we received helped us narrow our focus to try to emphasize the educational aspect of the product. 
+
+When the presentations were done I wrote essay highlighted our research and development process. we were also tasked with GMP2 at this time. GMP2 is a project where you either change your idea or improve upon it to help make it more impactful to the world. 
+
+We met up as a group and had discussions about what to do and decided that a focus on education was needed to make this product more impactful. We decided to scrap the modular design and discussed just making a split aquarium /hamster cage that shows how animals interact but we decided to keep ideating because the idea could be better. In one of our discussions we were talking about focusing on just the water aspect of our original idea and were looking for ways to make it more educational. I brought up the idea that we should focus on how global warming is causing corals to bleach. 
+
+We decided we would try to make a product that teaches the user about the importance of taking care of the environment. Our original idea for this was to create a coral shaped sponge that expanded when placed in water and changed colours from white to colour to show that not all hope is lost for bleached corals. This idea was better but was still missing an important part of good design; Interactivity. 
+
+My group was having a discussion with my teacher, Stephen, when the idea came to me: A interactive game that offers friendly competition while teaching users about the value of saving the environment. The game was going to be connected to an app that updated your score daily to a social media account and ranked played based on their score. An incentive prize of $25,000 to whoever can get the highest score before they lose would be in place to make people want to play the game. Along with the cash incentive there would also be a social media "#GobalWarmingChallenge". Having our product as a game helps users interact and get attached to the product causing more of an impact on the user than a less interactive product
+
+The game was a global warming simulation contained inside a box that needed to be taken care of regularly. The game focuses on 3 important impacts global warming will have on our world (melting icebergs, bleached corals and rising sea level) and helps show how they are connected to one another. Players would need to reset the countdown timer before it hits 0 otherwise havoc to happen within the simulation. When the countdown timer would reach 0 a heat lamp would turn on causing "global warming". After a few hours of "global warming" in the simulation the first stage would occur and the first of the ice bergs would fall into the water causing water levels to rise slightly and corals to slightly fade, but damage is kept to a minimum. two more stages would occur if the simulation was still not taken care of within a certain time frame. The aftermath of each stage is irreversible making the player more attached to and more enthusiastic about keeping their simulation alive for longer. Each stage would be worse than the the last causing more irreversible damage. 
 
 <img src="/images/uploads/gmp2-prototype.svg" alt="a second iteration prototype of our original idea" title="A second iteration prototype of our original idea" class="center" />
 
-this is our project
+Above is a prototype for the game that I designed, you can see the different sections of simulated ice bergs that would melt as well as where the water levels would rise to. on the top there is also the countdown timer and the players score. This game is a great improvement over our previous design with greater emphasis on educating the user about the environment. The game would teach payers that global warming can be prevented with a little bit of effort but if we don't try the world will be seriously changed and damaged permanently.  
+
+
+
+
 
 # Contact me:
 
