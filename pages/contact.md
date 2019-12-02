@@ -68,8 +68,6 @@ After completing my research I was almost able to begin working on usable protot
 
  I tested my prototype with my users again and observed them use it to see where they struggled and asked them for feedback and comments. I then created my first website wireframe using a website builder. A few more iterations later and I had a prototype with an easy to navigate layout and successfully displays the main ideas that were planned on being included. I conducted usability research after completing each iteration of my website.
 
-
-
 **Below are links to my low fidelity paper wireframe and to my website prototype:**
 
 <div class="youtube">
@@ -148,7 +146,11 @@ The game was a global warming simulation contained inside a box that needed to b
 
 Above is a prototype for the game that I designed using my skills with Illustrator, you can see the different sections of simulated ice bergs that would melt as well as where the water levels would rise to. on the top there is also the countdown timer and the players score. This game is a great improvement over our previous design with greater emphasis on educating the user about the environment. The game would teach payers that global warming can be prevented with a little bit of effort but if we don't try the world will be seriously changed and damaged permanently.   
 
-# <h2 id="contact">Contact me:</h2>
+# <h2 id="contact">
+
+#  Contact me: 
+
+# </h2>
 
 **Email:** Buschtate@gmail.com
 
