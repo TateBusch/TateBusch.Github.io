@@ -84,7 +84,7 @@ When revisiting my UX103 assignment from last year, ideas on how to improve it f
 
 ## Poster Design:
 
-In my program we have a graphic design class that teaches us different programs to help us as designers. The programs we learn are very useful to me as a User Experience Designer because they are the tools that enable me to transfer my creative design ideas from my thoughts and allows me to view them in real life. I work on my design skills on my own time because they are what limit my creativity. Improving my design skills with the adobe suite will help me to show off my ideas at their highest potential allowing others to have an easier time seeing the quality of my idea. Adobe Illustrator is my favourite program because I was never a good drawer with a pencil but a computer helps enable me to communicate my ideas with a higher quality.  
+In my program we have a graphic design class that teaches us different programs to help us as designers. The programs we learn are very useful to me as a User Experience Designer because they are the tools that enable me to transfer my creative design ideas from just thoughts in my head to viewable prototypes in real life. I work on my design skills on my own time because they are what limit my creativity. Improving my design skills with the adobe suite will help me to show off my ideas at their highest potential allowing others to have an easier time seeing the quality of my idea. Adobe Illustrator is my favourite program because I was never a good drawer with a pencil but a computer helps enable me to communicate my ideas with a higher quality.  
 
 <div class="row">
 
