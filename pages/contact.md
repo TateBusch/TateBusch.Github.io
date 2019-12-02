@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Projects
+title: My Projects
 thumbnail: ''
-id: contact
+id: projects
 ---
 I have completed several Projects both on my own time and through my school. Below, I compiled a list of those projects:<img src="/images/uploads/lamborghiniaventadorsv.svg" alt="My lamborghini Aventador SV" class="center">
 
