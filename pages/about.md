@@ -14,19 +14,19 @@ Hi, my name is Tate Busch, aspiring UX designer and future UX influencer. I am a
 
 <div class="column">
 
-  <img src="/images/uploads/img_7944-2.jpg" alt="My Laurier Hoodie" class="center">
+  <img src="/images/uploads/img_7944-2.jpg" alt="My Laurier Hoodie" title="My Laurier Hoodie" class="center">
 
   </div>
 
   <div class="column">
 
- <img src="/images/uploads/me.jpg" alt="A photo of me outside the UXD building at Laurier Brantford" class="me" >
+ <img src="/images/uploads/me.jpg" alt="A photo of me outside the UXD building at Laurier Brantford" title="A photo of me outside the UXD building at Laurier Brantford" class="me" >
 
   </div>
 
   <div class="column">
 
-   <img src="/images/uploads/allredlamb.jpg" alt="Red Lamborghini" class="center">
+   <img src="/images/uploads/allredlamb.jpg" alt="My favourite Lamborghini in red" title="My favourite Lamborghini in red" class="center">
 
   </div>
 
