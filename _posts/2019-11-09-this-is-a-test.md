@@ -5,6 +5,8 @@ date: '2019-12-01 00:00:00'
 thumbnail: ''
 tags: ''
 ---
+ <img src="/images/uploads/t8_turbo-copy.svgg" alt="This is my final logo" title= "This is my final logo. it was created using Adobe Illustrator" class="center">
+
 <div class="row">
 
 <div class="column">
@@ -21,7 +23,7 @@ tags: ''
 
   <div class="column">
 
-   <img src="/images/uploads/8-logo-copy.sv" alt="Another iteration of my logo" title="Another iteration of my logo" class="center" >
+   <img src="/images/uploads/8-logo-copy.svg" alt="Another iteration of my logo" title="Another iteration of my logo" class="center" >
 
   </div>
 
