@@ -118,7 +118,9 @@ To test my design skills in my graphic design class, I was tasked with designing
 
 ## Group Maker Project:
 
-The GMP project...
+Maker lab is a class that is designed to inspire creativity and to help teach us UX designers the importance of "thinking outside the box" and considering all possible ideas. Maker lab also teaches us about ethics; a very important part of UX in todays society. Another important aspect of this class is allowing people to work together to share and critique each others ideas helping us improve our collaboration skills. The projects we had to complete was broken down into two different parts known as group maker project 1 and 2 (nicknamed GMP). 
+
+The first GMP project we were only given instructions to "reinvent a box" to allow us to design freely and be creative. We came up with a multipurpose modular storage solution with an emphasis on holding multiple types of pets such as fish and a guinea pig. 
 
 <img src="/images/uploads/gmp2-prototype.svg" alt="a second iteration prototype of our original idea" title="A second iteration prototype of our original idea" class="center" />
 
