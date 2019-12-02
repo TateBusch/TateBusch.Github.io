@@ -1,7 +1,6 @@
 ---
 layout: default
 title: 'About Me:'
-thumbnail: ''
 id: about
 ---
 "a creative, playful lifestyle creates memorable experiences that will last a lifetime"
