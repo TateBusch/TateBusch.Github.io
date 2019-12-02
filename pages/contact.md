@@ -70,7 +70,7 @@ After completing my research I was almost able to begin working on usable protot
 
 
 
-**Below are links to my low fidelity paper prototype and my website wireframe:**
+**Below are links to my low fidelity paper wireframe and to my website prototype:**
 
 <div class="youtube">
 
