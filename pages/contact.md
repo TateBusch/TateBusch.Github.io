@@ -4,17 +4,15 @@ title: My Projects
 thumbnail: ''
 id: projects
 ---
-I have completed several Projects both on my own time and through my school. Below, I compiled a list of those projects:<img src="/images/uploads/lamborghiniaventadorsv.svg" alt="My lamborghini Aventador SV" class="center">
+\    I have completed several Projects both on my own time and through my school. Let's start with a series of projects that I completed on my own just for fun. I decided to apply my design and Adobe Illustrator skills to one of my hobbies; Cars and car design. I began by tracing photos of the cars I liked to help inspire my creativity to design my own cars. 
+
+\    The first car I traced was a new Toyota Supra concept car. I traced the car in about 20 min and was happy with my first drawing so I decided to continue and find more cars to draw. the next choice was obvious to me, it was going to be a Lamborghini. I was able to trace this car with much better success. The drawing was more clear and precise while simultaneously drawing it was faster than my first attempt. 
 
 
 
+\    After tracing existing cars I decided to begin designing my own. I drew a couple quick ideas and then decided that I would design a Lamborghini-inspired car. The car I created did not turn out exactly how I envisioned but i was able to still mostly capture my idea. In my drawing I was inspired by different periods in car design such as the pop up headlights of the late 80s-90s aswell as the inclusion of futuristic gullwing doors.
 
-
-
-
-
-
-
+<img src="/images/uploads/lamborghiniaventadorsv.svg" alt="My lamborghini Aventador SV" class="center">
 
 <div class="row">
 
@@ -37,15 +35,5 @@ I have completed several Projects both on my own time and through my school. Bel
   </div>
 
 </div>
-
-
-
-
-
-
-
-
-
-
 
 This is my contact page
