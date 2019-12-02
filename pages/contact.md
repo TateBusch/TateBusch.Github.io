@@ -12,7 +12,7 @@ id: projects
 
 <img src="/images/uploads/lamborghiniaventadorsv.svg" alt="My lamborghini Aventador SV" class="center" />
 
- After tracing existing cars I decided to begin designing my own. I drew a couple quick ideas and then decided that I would design a Lamborghini-inspired car. The car I created did not turn out exactly how I envisioned but i was able to still mostly capture my idea. In my drawing I was inspired by different periods in car design that I liked such as the pop up headlights of the late 80s-90s aswell as the inclusion of futuristic gullwing doors.
+ After tracing existing cars I decided to begin designing my own. I drew a couple quick ideas and then decided that I would design a Lamborghini-inspired car. The car I created did not turn out exactly how I envisioned but i was able to still mostly capture my idea. In my drawing I was inspired by different periods in car design that I liked such as the pop up headlights of the late 80s-90s aswell as the inclusion of futuristic gullwing doors. I plan on drawing more angles of this car with better accuracy to better envision my design. I also will be designing several car interiors in the near future.
 
 <img src="/images/uploads/lamborghinibytate.svg" alt="My lamborghini-inspired car" class="center"/>
 
