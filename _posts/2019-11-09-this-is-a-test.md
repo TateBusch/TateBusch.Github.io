@@ -35,6 +35,5 @@ I designed several different logos to be able to ensure that I choose a logo tha
 
 <img src="/images/uploads/busch_tate_pentool.svg" alt="A pop Vinyl figure of myself that I made" title="A pop Vinyl figure of myself that I made" class="center" >
 
-
-
-<pv> This is a Pop Vinyl figure of myself drawn using Illustrator </pv>
+\
+ This is a Pop Vinyl figure of myself drawn using Illustrator
