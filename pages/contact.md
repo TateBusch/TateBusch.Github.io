@@ -132,4 +132,4 @@ this is our project
 
 Connect with me over linkedIn if you haven't already!
 
-**Tate Busch**
+just search up my name: **Tate Busch**
