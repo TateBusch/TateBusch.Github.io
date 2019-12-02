@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Projects
+thumbnail: /images/uploads/lamborghiniaventadorsv.svg
 id: contact
 ---
 I have completed several Projects both on my own time and through my school. Below, I compiled a list of those projects:<img src="/images/uploads/img_7944-2.jpg" alt="My Laurier Hoodie" class="center">
