@@ -54,7 +54,7 @@ After completing my research I was almost able to begin working on usable protot
 
 <div class="column2">
 
-<img src="/images/uploads/lowfidelitypaper.png" alt="" title="" class="poster" />
+<img src="/images/uploads/screen-shot-2019-12-02-at-4.38.31-pm.png" alt="" title="" class="poster" />
 
 </div>
 
