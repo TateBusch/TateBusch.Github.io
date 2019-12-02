@@ -18,23 +18,17 @@ Hi, my name is Tate Busch, aspiring UX designer and future UX influencer. I am a
 
   </div>
 
-
-
   <div class="column">
 
-   <img src="/images/uploads/lamborghiniaventadorsv.svg" alt="Red Lamborghini" class="center">
+   <img src="/images/uploads/img_7944.jpg" alt="My Laurier Hoodie" class="center" >
 
   </div>
-
-
 
   <div class="column">
 
    <img src="/images/uploads/allredlamb.jpg" alt="Red Lamborghini" class="center">
 
   </div>
-
-
 
 </div>
 
