@@ -52,7 +52,7 @@ The website could be an all inclusive UXDesigner platform. it would combine a li
 
 The
 
-## Group Maker Project
+## Group Maker Project:
 
 The
 
