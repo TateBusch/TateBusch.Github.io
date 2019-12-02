@@ -5,7 +5,7 @@ date: '2019-12-01 00:00:00'
 thumbnail: ''
 tags: ''
 ---
- <img src="/images/uploads/t8_turbo-copy.svg" alt="This is my final logo" title= "This is my final logo. it was created using Adobe Illustrator" class="center">
+ <img src="/images/uploads/t8_turbo-copy.svg" alt="This is my final logo" title= "This is my final logo. it was created using Adobe Illustrator" class="logo">
 
 # My Logos:
 
