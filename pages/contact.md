@@ -4,7 +4,7 @@ title: 'My Projects:'
 thumbnail: ''
 id: projects
 ---
-## Illustrator In My Free Time
+## Illustrator In My Free Time:
 
  I have completed several UX related projects both on my own time and through my school. I decided that it would be best to showcase the projects that best reflect me so that whomever is viewing this may get a good understanding of who I am without ever even meeting me. Let's start with a series of projects that I completed on my own just for fun. I decided to apply my design and Adobe Illustrator skills to one of my hobbies; cars and car design. I began by tracing photos of the cars I liked to help inspire my creativity to design my own cars. 
 
@@ -140,11 +140,7 @@ The game was a global warming simulation contained inside a box that needed to b
 
 <img src="/images/uploads/gmp2-prototype.svg" alt="a second iteration prototype of our original idea" title="A second iteration prototype of our original idea" class="center" />
 
-Above is a prototype for the game that I designed, you can see the different sections of simulated ice bergs that would melt as well as where the water levels would rise to. on the top there is also the countdown timer and the players score. This game is a great improvement over our previous design with greater emphasis on educating the user about the environment. The game would teach payers that global warming can be prevented with a little bit of effort but if we don't try the world will be seriously changed and damaged permanently.  
-
-
-
-
+Above is a prototype for the game that I designed using my skills with Illustrator, you can see the different sections of simulated ice bergs that would melt as well as where the water levels would rise to. on the top there is also the countdown timer and the players score. This game is a great improvement over our previous design with greater emphasis on educating the user about the environment. The game would teach payers that global warming can be prevented with a little bit of effort but if we don't try the world will be seriously changed and damaged permanently.  
 
 # Contact me:
 
