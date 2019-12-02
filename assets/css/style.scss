@@ -116,10 +116,9 @@ div {
 }
 
 .youtube::after {
-  content: "";
-  float: center;
+  width: 560px;
+    margin: 0 auto;
   clear: both;
-  display: table;
 }
 
 
