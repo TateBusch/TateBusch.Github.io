@@ -60,7 +60,7 @@ After completing my research I was almost able to begin working on usable protot
 
   <div class="column2">
 
- <img src="/images/uploads/idea.jpg" alt="Here are two low-fidelity prototypes that helped inspire the final product" title="Here are two low-fidelity prototypes that helped inspire the final product" class="posterprototype" />
+ <img src="/images/uploads/websitewireframe2.png" alt="" title="" class="posterprototype" />
 
   </div>
 
