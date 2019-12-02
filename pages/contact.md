@@ -50,13 +50,13 @@ the
 
 <div class="column2">
 
-<img src="/images/uploads/" alt="" title="" class="center" />
+<source src="/ux103 Final/finishedwebsite.mov" type="video/mp4"  alt="" title="" class="center" />
 
 </div>
 
   <div class="column2">
 
-<img src="/images/uploads/" alt="" title="" class="center" />
+<source src="/ux103 Final/lowfidelitypaperprototype" type="video/mp4"  alt="" title="" class="center" />
 
   </div>
 
