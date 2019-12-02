@@ -96,7 +96,9 @@ When revisiting my UX103 assignment from last year, ideas on how to improve it f
 
 ## Poster Design:
 
-In my graphic design class we were tasked with designing a poster to represent the UX program.
+In my program we have a graphic design class that teaches us different programs to help us as designers. The programs we learn are very useful to me as a User Experience Designer because they are the tools that enable me to transfer my creative design ideas from my thoughts and allows me to view them in real life. I work on my design skills on my own time because they are what limit my creativity. Improving my design skills with the adobe suite will help me to show off my ideas at their highest potential allowing others to have an easier time seeing the quality of my idea. Adobe Illustrator is my favourite program because I was never a good drawer with a pencil but a computer helps enable me to communicate my ideas with a higher quality.  
+
+to test my design skills in my graphic design class, I was tasked with designing a poster to represent the UX program. I began by ideating my design and created some quick sketches to help start getting the layout of my poster set out. I created a few iterations and changed my poster more and more as more ideas came to me until I was able to end up at my final product. My final product is designed for high students to get thinking about the different aspects that make up UX. I also emphasized it being offered at Wilfrid Laurier University to encourage students to apply to the school.
 
 <div class="row">
 
