@@ -15,7 +15,7 @@ tags: ''
 
   <div class="column">
 
- <img src="/images/uploads/me.jpg" alt="A photo of me outside the UXD building at Laurier Brantford" title="A photo of me outside the UXD building at Laurier Brantford" class="me" >
+ <img src="/images/uploads/busch_tate_pentool.svg" alt="A pop Vinyl figure of myself that I made" title="A pop Vinyl figure of myself that I made" class="center" >
 
   </div>
 
