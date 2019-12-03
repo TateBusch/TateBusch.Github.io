@@ -69,14 +69,12 @@ After completing my research I was almost able to begin working on usable protot
 
 **Below are links to my low fidelity paper wireframe and to my website prototype:**
 
-<div class="row">
+<div class="row"> <div class= "col-md-6">
 
-<div class="youtube"> <div class= "col-md-6">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Qxyxpr7a7-8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<div class="youtube"> <iframe width="560" height="315" src="https://www.youtube.com/embed/Qxyxpr7a7-8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
-
-<div class= "col-md-6">
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/crlmVBqzdnc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  </div>
